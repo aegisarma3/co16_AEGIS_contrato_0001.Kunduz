@@ -1,0 +1,37 @@
+
+
+author = "Toaster [AEGIS]";
+onLoadName = "CONTRATO 0001";
+loadScreen = "images\mission.jpg";
+overviewPicture = "images\mission.jpg";
+onLoadMission = "“A Escrever” - Toaster";
+overviewText = "“A Escrever” - Toaster";
+
+respawn = 3;
+respawndelay = 5;
+enableDebugConsole = 1;
+DisabledAI = true;
+
+
+corpseLimit = 4; //Limite de cadaver (Default 15)
+corpseRemovalMinTime = 20;
+corpseRemovalMaxTime = 35;
+
+
+wreckLimit = 3; //Default value: 15
+wreckRemovalMinTime = 60;
+wreckRemovalMaxTime = 120;
+
+
+
+
+
+
+class Header
+{
+	gameType = Coop;
+	minPlayers = 1;
+	maxPlayers = 16;
+};
+
+
