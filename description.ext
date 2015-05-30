@@ -23,10 +23,6 @@ wreckRemovalMinTime = 60;
 wreckRemovalMaxTime = 120;
 
 
-
-
-
-
 class Header
 {
 	gameType = Coop;

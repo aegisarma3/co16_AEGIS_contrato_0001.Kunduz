@@ -3,3 +3,12 @@
 
 ///////////////////--Basic--///////////////////        -----> https://community.bistudio.com/wiki/enableSaving
 enableSaving [false, false];
+
+
+
+// player creatediaryRecord["Diary", ["Execução", "<br/><br/>"]];
+// player creatediaryRecord["Diary", ["Operação", "<br/><br/>"]];
+// player creatediaryRecord["Diary", ["Contrato 0001", "<br/><br/>"]];
+
+
+execVM "intro.sqf";
